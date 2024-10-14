@@ -27,4 +27,4 @@ This project demonstrates various **problem-solving techniques** in Python. The 
 4. Run the program using the following command:
 
    ```bash
-   python student_records.py
+   python main.py
